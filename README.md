@@ -6,8 +6,8 @@ A command-line tool to download YouTube videos or audio using yt-dlp.
 
 ```bash
 pip install yt-downloader-new
+```
+## Usage
 
-
-```usage
 yt-download-new https://youtube.com/watch?v=xxxx
 yt-download-new https://youtube.com/watch?v=xxxx --audio

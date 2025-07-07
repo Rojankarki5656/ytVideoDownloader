@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+yt-fetcher/__init__.py
+yt-fetcher/cli.py
+yt_fetcher.egg-info/PKG-INFO
+yt_fetcher.egg-info/SOURCES.txt
+yt_fetcher.egg-info/dependency_links.txt
+yt_fetcher.egg-info/entry_points.txt
+yt_fetcher.egg-info/requires.txt
+yt_fetcher.egg-info/top_level.txt

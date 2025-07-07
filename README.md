@@ -9,5 +9,6 @@ pip install yt-downloader-new
 ```
 ## Usage
 
-yt-download-new https://youtube.com/watch?v=xxxx
-yt-download-new https://youtube.com/watch?v=xxxx --audio
+yt-fetcher https://youtube.com/watch?v=xxxx
+
+yt-fetcher https://youtube.com/watch?v=xxxx --audio

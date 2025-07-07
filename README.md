@@ -1,6 +1,6 @@
 # 🎬 yt-fetcher — YouTube Video & MP3 Downloader CLI (Powered by yt-dlp)
 
-[![PyPI version](https://badge.fury.io/py/yt-fetcher.svg)](https://pypi.org/project/yt-fetcher/)
+[![PyPI version](https://badge.fury.io/py/yt-fetcher.svg)](https://pypi.org/project/yt-fetcher-new/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **yt-fetcher** is a powerful yet simple Python-based command-line tool to **download YouTube videos and audio (MP3)** in one line, using the speed and flexibility of [`yt-dlp`](https://github.com/yt-dlp/yt-dlp). No GUI, no distractions — just fast, efficient downloads.
